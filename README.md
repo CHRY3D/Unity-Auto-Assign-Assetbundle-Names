@@ -1,0 +1,1 @@
+Unity editor script to automatically generate and assign prefabs with assetbundle names from gameobject.name
